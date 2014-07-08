@@ -12,6 +12,6 @@ class Conf: NSObject {
 //    class var url: NSString = nil;
     
     class func getRequestHost() -> NSString! {
-        return "http://127.0.0.1:8850/test/m"
+        return "http://172.22.176.89:8850/test/m"
     }
 }
